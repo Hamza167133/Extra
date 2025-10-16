@@ -1,0 +1,21 @@
+1. The name: HyperText Markup Language — what each word means
+
+Hyper
+Simple meaning: “more than” or “connected”.
+Child analogy: hyper is like a spider’s web — lots of connections.
+Real idea: HTML lets pages connect to other pages, files, places — links are the “web” in the World Wide Web.
+
+Text
+
+Plain meaning: the content (words) we see on a page.
+But HTML is not only words — it organizes many types of content (text, images, forms).
+
+Markup
+
+Plain meaning: labels or marks added around content to say “this is a heading”, “this is a picture”, “this is a link”.
+Child analogy: like sticking Post-it notes on a book telling someone “this is the title”, “this is a picture”, etc.
+Real idea: we don’t change the content — we mark it so browsers know how to show it.
+
+Language
+It’s a set of rules and words (tags) we use to mark content so machines (browsers) can understand it.
+Short: HTML = a set of tags (marks) that tell a browser how to show and connect page content.
