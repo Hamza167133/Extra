@@ -1,0 +1,16 @@
+Quirks Mode does not use any specific HTML version (like HTML3, 4, or 5).
+
+Instead, the browser uses its own old, non-standard rules — how old browsers (like Internet Explorer 5) used to show pages.
+
+These rules existed before HTML4 and CSS2 were standardized — so the browser “pretends” to be an old browser to show the page.
+
+👉 In short:
+
+When <!DOCTYPE html> is missing, the browser says:
+“Maybe this page was written for very old browsers.”
+
+Then it follows its own old layout logic, not HTML5 or any other version.
+
+✅ So:
+Quirks Mode = browser’s old custom rules,
+not HTML4, not HTML5 — just old browser behavior.
